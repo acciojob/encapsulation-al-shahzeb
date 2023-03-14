@@ -1,13 +1,13 @@
 package com.driver;
 
 public class RWOnly {
-    private String encaps;
+    private String name;
 
-    public void setEncaps(String encaps) {
-        this.encaps = encaps;
+    public void setName(String encaps) {
+        this.name = encaps;
     }
 
-    public String getEncaps() {
-        return encaps;
+    public String getName() {
+        return name;
     }
 }

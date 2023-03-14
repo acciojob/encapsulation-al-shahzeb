@@ -12,8 +12,8 @@ public class Main {
          **/
 
 
-        rwOnly.setEncaps("This is encapsulation.");
-        System.out.println(rwOnly.getEncaps());
+        rwOnly.setName("This is encapsulation.");
+        System.out.println(rwOnly.getName());
     }
   
 }
